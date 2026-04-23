@@ -1,0 +1,1 @@
+﻿"""Accounts view placeholders."""

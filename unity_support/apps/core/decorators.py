@@ -1,0 +1,1 @@
+﻿"""Role-based decorator placeholders."""

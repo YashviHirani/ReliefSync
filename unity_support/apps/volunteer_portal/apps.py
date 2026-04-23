@@ -1,0 +1,1 @@
+﻿"""Volunteer portal app configuration."""

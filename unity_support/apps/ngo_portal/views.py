@@ -1,0 +1,1 @@
+﻿"""NGO portal view placeholders."""
